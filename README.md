@@ -3,7 +3,12 @@
 An autonomous AI-powered sales agent that replaces the traditional GTM flow — from discovery to payment — in a single chat conversation.
 
 ---
+## 📹 Video Tutorials
 
+- [Hebrew Tutorial](https://drive.google.com/file/d/1duE85BMIXaRJG5CgegFULE_gUCFPn-nJ/view?usp=gmail)
+- [English Tutorial](https://drive.google.com/file/d/1TEPgW6DUNqB6xLI5YzmwKBZrs0Q7DPIL/view?usp=gmail) (Note: Recorded on a train, poor audio quality)
+
+---
 ## 📋 Prerequisites
 
 | Requirement | Details |
