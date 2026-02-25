@@ -141,7 +141,7 @@ class TenantConfig:
     )
 
     # ── API / Integration ─────────────────────
-    monday_api_url: str = "https://api.monday.com/v2"
+    monday_api_url: str = "https://api.monday.com"
     monday_api_version: str = "2024-10"
 
     # ── Helper methods ────────────────────────
